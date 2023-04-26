@@ -1,0 +1,337 @@
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\appsettings.Development.json
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\appsettings.json
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\appsettings.Production.json
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Heyy.Auth.exe
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Heyy.Auth.deps.json
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Heyy.Auth.runtimeconfig.json
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Heyy.Auth.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Heyy.Auth.pdb
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\AutoMapper.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Azure.Core.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Azure.Identity.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\FluentValidation.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Google.Protobuf.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Humanizer.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\MailKit.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\dotnet-ef.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\MimeKit.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\MySql.Data.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\ZstdNet.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\comerr64.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\gssapi64.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\k5sprt64.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\krb5_64.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\krbcc64.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Scrutor.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Serilog.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Serilog.AspNetCore.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Serilog.Sinks.File.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\System.CodeDom.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\System.Memory.Data.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\Heyy.Auth.csproj.AssemblyReference.cache
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\Heyy.Auth.GeneratedMSBuildEditorConfig.editorconfig
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\Heyy.Auth.AssemblyInfoInputs.cache
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\Heyy.Auth.AssemblyInfo.cs
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\Heyy.Auth.csproj.CoreCompileInputs.cache
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\Heyy.Auth.MvcApplicationPartsAssemblyInfo.cs
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\Heyy.Auth.MvcApplicationPartsAssemblyInfo.cache
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\staticwebassets\msbuild.Heyy.Auth.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\staticwebassets\msbuild.build.Heyy.Auth.props
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Heyy.Auth.props
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Heyy.Auth.props
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\staticwebassets.pack.json
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\staticwebassets.build.json
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\staticwebassets.development.json
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\scopedcss\bundle\Heyy.Auth.styles.css
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\Heyy.Auth.csproj.CopyComplete
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\Heyy.Auth.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\refint\Heyy.Auth.dll
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\Heyy.Auth.pdb
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\Heyy.Auth.genruntimeconfig.cache
+F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\obj\Debug\net7.0\ref\Heyy.Auth.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\appsettings.Development.json
+C:\ChatApp\Heyy\bin\Debug\net7.0\appsettings.Production.json
+C:\ChatApp\Heyy\bin\Debug\net7.0\appsettings.json
+C:\ChatApp\Heyy\bin\Debug\net7.0\Heyy.Auth.exe
+C:\ChatApp\Heyy\bin\Debug\net7.0\Heyy.Auth.deps.json
+C:\ChatApp\Heyy\bin\Debug\net7.0\Heyy.Auth.runtimeconfig.json
+C:\ChatApp\Heyy\bin\Debug\net7.0\Heyy.Auth.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Heyy.Auth.pdb
+C:\ChatApp\Heyy\bin\Debug\net7.0\AutoMapper.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Azure.Core.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Azure.Identity.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\FluentValidation.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Google.Protobuf.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Humanizer.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\MailKit.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\dotnet-ef.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\MimeKit.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\MySql.Data.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\ZstdNet.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\comerr64.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\gssapi64.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\k5sprt64.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\krb5_64.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\krbcc64.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Scrutor.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Serilog.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\System.CodeDom.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\System.Memory.Data.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ChatApp\Heyy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ChatApp\Heyy\obj\Debug\net7.0\Heyy.Auth.csproj.AssemblyReference.cache
+C:\ChatApp\Heyy\obj\Debug\net7.0\Heyy.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\ChatApp\Heyy\obj\Debug\net7.0\Heyy.Auth.AssemblyInfoInputs.cache
+C:\ChatApp\Heyy\obj\Debug\net7.0\Heyy.Auth.AssemblyInfo.cs
+C:\ChatApp\Heyy\obj\Debug\net7.0\Heyy.Auth.csproj.CoreCompileInputs.cache
+C:\ChatApp\Heyy\obj\Debug\net7.0\Heyy.Auth.MvcApplicationPartsAssemblyInfo.cs
+C:\ChatApp\Heyy\obj\Debug\net7.0\Heyy.Auth.MvcApplicationPartsAssemblyInfo.cache
+C:\ChatApp\Heyy\obj\Debug\net7.0\staticwebassets\msbuild.Heyy.Auth.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ChatApp\Heyy\obj\Debug\net7.0\staticwebassets\msbuild.build.Heyy.Auth.props
+C:\ChatApp\Heyy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Heyy.Auth.props
+C:\ChatApp\Heyy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Heyy.Auth.props
+C:\ChatApp\Heyy\obj\Debug\net7.0\staticwebassets.pack.json
+C:\ChatApp\Heyy\obj\Debug\net7.0\staticwebassets.build.json
+C:\ChatApp\Heyy\obj\Debug\net7.0\staticwebassets.development.json
+C:\ChatApp\Heyy\obj\Debug\net7.0\scopedcss\bundle\Heyy.Auth.styles.css
+C:\ChatApp\Heyy\obj\Debug\net7.0\Heyy.Auth.csproj.CopyComplete
+C:\ChatApp\Heyy\obj\Debug\net7.0\Heyy.Auth.dll
+C:\ChatApp\Heyy\obj\Debug\net7.0\refint\Heyy.Auth.dll
+C:\ChatApp\Heyy\obj\Debug\net7.0\Heyy.Auth.pdb
+C:\ChatApp\Heyy\obj\Debug\net7.0\Heyy.Auth.genruntimeconfig.cache
+C:\ChatApp\Heyy\obj\Debug\net7.0\ref\Heyy.Auth.dll
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\Heyy.Auth.csproj.AssemblyReference.cache
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\Heyy.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\Heyy.Auth.AssemblyInfoInputs.cache
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\Heyy.Auth.AssemblyInfo.cs
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\Heyy.Auth.csproj.CoreCompileInputs.cache
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\Heyy.Auth.MvcApplicationPartsAssemblyInfo.cs
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\Heyy.Auth.MvcApplicationPartsAssemblyInfo.cache
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\Heyy.Auth.dll
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\refint\Heyy.Auth.dll
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\Heyy.Auth.pdb
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\appsettings.Development.json
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\appsettings.Production.json
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\appsettings.json
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Heyy.Auth.exe
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Heyy.Auth.deps.json
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Heyy.Auth.runtimeconfig.json
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Heyy.Auth.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Heyy.Auth.pdb
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\AutoMapper.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Azure.Core.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Azure.Identity.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\CorePush.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\FluentValidation.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Google.Protobuf.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Humanizer.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\MailKit.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\dotnet-ef.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\MimeKit.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\MySql.Data.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\ZstdNet.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\comerr64.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\gssapi64.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\k5sprt64.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\krb5_64.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\krbcc64.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Scrutor.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Serilog.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\System.CodeDom.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\System.Memory.Data.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\staticwebassets\msbuild.Heyy.Auth.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\staticwebassets\msbuild.build.Heyy.Auth.props
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Heyy.Auth.props
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Heyy.Auth.props
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\staticwebassets.pack.json
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\staticwebassets.build.json
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\staticwebassets.development.json
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\scopedcss\bundle\Heyy.Auth.styles.css
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\Heyy.Auth.csproj.CopyComplete
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\Heyy.Auth.genruntimeconfig.cache
+C:\ChatApp\Heyy Backend\Heyy\obj\Debug\net7.0\ref\Heyy.Auth.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\MessagePack.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\MessagePack.Annotations.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.MessagePack.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\ChatApp\Heyy Backend\Heyy\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.NewtonsoftJson.dll

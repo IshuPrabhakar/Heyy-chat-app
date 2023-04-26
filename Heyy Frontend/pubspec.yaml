@@ -1,0 +1,81 @@
+name: heyy
+description: yet another chat application.
+
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.7.5"
+
+
+dependencies:
+  animations: ^2.0.7
+  cached_network_image: ^3.2.3
+  chat_composer: ^1.0.3
+  country_picker: ^2.0.20
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  flutter_emoji: ^2.0.0
+  flutter_riverpod: ^2.2.0
+  google_fonts: ^4.0.3
+  lottie: ^2.2.0
+  pinput: ^2.2.31
+  story_view: ^0.14.0
+  video_player: ^2.5.2
+  swipe_to: ^1.0.2
+  emoji_picker_flutter: ^1.5.2
+  image_cropper: ^2.0.3
+  image_picker: ^0.8.5+3
+  file_picker: ^5.2.6 
+  pretty_qr_code: ^2.0.3
+  qr_code_scanner: ^1.0.1
+  http: ^0.13.5
+  objectbox: ^2.0.0
+  objectbox_flutter_libs: any
+  path_provider: ^2.0.14
+  
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.12.0"
+  flutter_native_splash: ^2.2.18
+  build_runner: ^2.3.3
+  objectbox_generator: any
+  flutter_test:
+    sdk: flutter
+
+# native splash
+flutter_native_splash:
+  color: "#ffffff"
+  image: "assets/splashimage.png"
+  android: true
+  ios: true
+
+# aplication icon
+flutter_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "assets/appicon.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  remove_alpha_ios: true
+  # web:
+  #   generate: true
+  #   image_path: "images/appicon.png"
+  #   background_color: "#hexcode"
+  #   theme_color: "#hexcode"
+  windows:
+    generate: true
+    image_path: "assets/appicon.png"
+    icon_size: 48 # min:48, max:256, default: 48
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/

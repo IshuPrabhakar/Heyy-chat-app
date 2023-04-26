@@ -1,0 +1,14 @@
+2023-03-23T18:23:25.1406889+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5000"
+2023-03-23T18:23:25.4148102+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:5001"
+2023-03-23T18:23:25.4214948+05:30 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-03-23T18:23:25.4237428+05:30 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Production"
+2023-03-23T18:23:25.4249782+05:30 [INF] (Microsoft.Hosting.Lifetime) Content root path: "F:\ishu\Vs Code\Projects\Heyy.Auth\Heyy.Auth\bin\Debug\net6.0\"
+2023-03-23T18:23:51.9780564+05:30 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - -
+2023-03-23T18:23:52.1098518+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger/index.html" responded 404 in 6.7326 ms
+2023-03-23T18:23:52.1968348+05:30 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - - - 404 0 - 224.6489ms
+2023-03-23T18:24:14.1514488+05:30 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/2 GET https://localhost:5001/swagger - -
+2023-03-23T18:24:14.1532101+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger" responded 404 in 0.0330 ms
+2023-03-23T18:24:14.1573094+05:30 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/2 GET https://localhost:5001/swagger - - - 404 0 - 5.8554ms
+2023-03-23T18:24:18.8721781+05:30 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/2 GET https://localhost:5001/swagger - -
+2023-03-23T18:24:18.8736228+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger" responded 404 in 0.0108 ms
+2023-03-23T18:24:18.8784679+05:30 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/2 GET https://localhost:5001/swagger - - - 404 0 - 6.2709ms
